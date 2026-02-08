@@ -1,0 +1,3 @@
+pynput
+mido
+python-rtmidi
