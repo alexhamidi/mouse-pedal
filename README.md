@@ -1,4 +1,7 @@
 
+
+https://github.com/user-attachments/assets/96fe5aec-faf0-4b40-9e09-b1636b8f1026
+
 Uses your mouse as a piano sustain pedal. Left click down holds sustain, releasing it lets go.
 
 Sends MIDI CC64 (sustain) over a virtual MIDI port, so it works with any DAW or piano software.
